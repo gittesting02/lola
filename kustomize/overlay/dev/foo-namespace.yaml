@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_b6e04066-4647-42c2-9640-8092e4dcbb1b
+    project-id: project_628768d4-a636-4384-84b2-b65a9e661d0e
+    project-name: lola
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_3a6ba25e-eef3-4831-bb41-d69d978a9bcd
+    project-id: project_628768d4-a636-4384-84b2-b65a9e661d0e
+    project-name: lola
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

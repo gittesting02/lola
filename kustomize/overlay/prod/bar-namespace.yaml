@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_0f84c76e-3783-4ec7-9a2a-0f2dc98a74d1
+    project-id: project_628768d4-a636-4384-84b2-b65a9e661d0e
+    project-name: lola
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
