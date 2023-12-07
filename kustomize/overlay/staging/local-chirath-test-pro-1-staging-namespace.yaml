@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: local-chirath-test-pro-1-staging
+  labels:
+    environment-id: env_b5e9d3b4-3efb-4313-868e-17f49b0539bf
+    project-id: project_9f5d11b9-23cf-4f65-b772-1ae87361fc5e
+    project-name: local-chirath-test-pro-1
+    environment-name: staging
+    organization-id: org_b90db410-70ec-4efc-955f-90fee843d8f8

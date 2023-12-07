@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: local-chirath-test-pro-1-dev
+  labels:
+    environment-id: env_b2015e11-d47a-4675-9cc6-b5b772f3dbd5
+    project-id: project_9f5d11b9-23cf-4f65-b772-1ae87361fc5e
+    project-name: local-chirath-test-pro-1
+    environment-name: dev
+    organization-id: org_b90db410-70ec-4efc-955f-90fee843d8f8
